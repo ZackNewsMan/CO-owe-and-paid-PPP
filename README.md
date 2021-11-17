@@ -13,3 +13,4 @@ DOR data lives in the "DOR delinquent data" folder.
 PPP data used for the analysis was too large to upload to GitHub and lives here: https://drive.google.com/drive/folders/1jW19Nj5nr4INzK60IC4n7i8_z-DzT7Yn?usp=sharing
 
 You can download the data for yourself from the SBA website here: https://data.sba.gov/dataset/ppp-foia
+ 
